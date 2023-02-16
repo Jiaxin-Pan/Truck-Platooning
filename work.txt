@@ -1,0 +1,26 @@
+Designing MPC plant model and cost function: Jiaxin Pan
+Data collection script - version 1: Changyao Zhou
+Data preparation for training MLP model with raw states: Jiaxin Pan
+Training for MLP model with raw states: Changyao Zhou
+Inference for MLP model with raw states: Jiaxin Pan
+Data collection script - version 2: Changyao Zhou
+Data preparation for training MLP model with relative states: Changyao Zhou
+Training for MLP model with relative states: Changyao Zhou
+Inference for MLP model with relative states: Jiaxin Pan
+Training for FCNN end-to-end model: Changyao Zhou
+Inference for FCNN end-to-end model: Jiaxin Pan
+Data preparation for training CNN-MLP model with RGB camera: Jiaxin Pan
+Training for CNN-MLP model with RGB camera: Jiaxin Pan
+Inference for CNN-MLP model with RGB camera: Jiaxin Pan
+Data collection and preprocessing for CNN-MLP model with depth camera: Changyao Zhou
+Training for CNN-MLP model with depth camera: Changyao Zhou
+Inference for CNN-MLP model with depth camera: Changyao Zhou
+Data collection and preprocessing for CNN-MLP model with stereo camera: Jiaxin Pan
+Training for CNN-MLP model with stereo camera: Jiaxin Pan
+Inference for CNN-MLP model with stereo camera: Jiaxin Pan
+Data collection for CNN-MLP model with only on-trajectory data: Changyao Zhou
+Training for CNN-MLP model with only on-trajectory data: Changyao Zhou
+Inference for CNN-MLP model with only on-trajectory data: Changyao Zhou
+Evaluation metrics: Jiaxin Pan
+
+
